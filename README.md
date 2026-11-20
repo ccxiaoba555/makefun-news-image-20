@@ -1,4 +1,10 @@
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/ccxiaoba555/makefun-news-image-20/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/ccxiaoba555/makefun-news-image-20/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 # news-image-20261120 — Friday, 20 November 2026
+
+Built for [make.fun](https://make.fun/bounty/news-image-20261120)'s “Sum up 20 November's world news in one image” bounty ($250 in USDC).
 
 One image summing up the world news of Friday 20 November 2026, drawn as a
 newspaper front page (1024×1024 PNG). The date is named at the top; six
